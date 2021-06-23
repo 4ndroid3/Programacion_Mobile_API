@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Token Generator</string>
+    <string name="token_generator">Token Generator</string>
+    <string name="generate_token">Generate Token</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
